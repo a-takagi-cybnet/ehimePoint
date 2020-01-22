@@ -188,8 +188,9 @@ CONFIG.TOPMESSAGE = null;
   EXPIRES : -1 //-1  // クッキーの有効期限( hour )
 };*/
 
-// 初期位置
-CONFIG.DEFAULT = { CENTER: [36.104611, 140.084556], ZOOM: 5 };
+// 初期位置 
+//CONFIG.DEFAULT = { CENTER: [36.104611, 140.084556], ZOOM: 5 };
+CONFIG.DEFAULT = { CENTER: [33.674640,132.905731], ZOOM: 10 };
 
 // レイヤータイプリスト
 CONFIG.LAYERTYPELIST = {
